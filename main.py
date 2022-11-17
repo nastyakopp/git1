@@ -14,5 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("hi")
     k = 9
+    a = 10
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
